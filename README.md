@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I’m Prammy 👋
 
-<!--
-**pramodhaklnz/pramodhaklnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Modern Workspace Engineer | Aspiring DevOps & Security Professional | Exploring AIOps & Quantum Computing**
 
-Here are some ideas to get you started:
+Based in Auckland, NZ, I blend home-lab creativity with professional infrastructure expertise. With hands-on experience in Azure, Intune, Entra ID, Windows Server, and foundational AWS/GCP, I build cloud-enabled solutions that are secure, scalable, and reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Do
+
+- Prototype complex network environments using Cisco, Juniper & Meraki gear for testing, training, and pentesting  
+- Deploy and manage Microsoft 365 and Intune endpoints ensuring hybrid estate compliance  
+- Automate deployment and operational workflows with Python scripting, GitHub Actions, Terraform, and CI/CD pipelines  
+- Design infrastructure mindful of real-world ROI, power usage, and cost efficiency from lab setups to production environments
+
+---
+
+## Currently Exploring
+
+- DevOps best practices and cloud security  
+- AIOps for intelligent system monitoring and predictive insights  
+- Quantum Computing and its potential to transform IT
+
+---
+
+## Let’s Connect!
+
+- 📫 Find me on [LinkedIn](https://linkedin.com/in/pramodh-maheshwar)  
+- 💻 Check out my projects and contributions here on GitHub
+
+---
+
+*Learning by doing, automating the repetitive, and sharing the journey—one commit at a time.*  
